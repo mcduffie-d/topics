@@ -1,7 +1,11 @@
-n McDuffie 
+
+++++++++++++++++
+
+Dylan McDuffie 
 Technical Consultant/Systems Analyst 
 Contact: cloudadmyn@gmail.com      
  
+++++++++++++++++
  
 Protocols: TCP/IP, SNMP, VoIP, DNS, SIP, SQL, FIX, HTTP, HTTPS. 
 Operating Systems: Red Hat, Ubuntu, CentOS, Mac OS X. 
